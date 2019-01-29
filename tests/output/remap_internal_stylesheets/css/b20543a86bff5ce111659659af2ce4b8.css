@@ -1,0 +1,10 @@
+
+@import url( "./imports/import1.css" );
+
+@import url( "http://test.com/css/imports/import2.css" );
+
+body
+{
+	margin:0;
+	background-color:white;
+}
